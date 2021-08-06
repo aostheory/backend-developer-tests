@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/satori/go.uuid"
+	uuid "github.com/satori/go.uuid"
 )
 
 // Person defines a simple representation of a person
